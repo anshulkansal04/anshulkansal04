@@ -1,5 +1,11 @@
+<h1 align="center">Hi 👋, I'm Anshul Kansal</h1>
+
 # 💫 About Me:
-🔭 I’m currently working on ReactJS<br><br>👨‍💻 All of my projects are available at https://github.com/anshulkansal04<br><br>⚡ I am looking to collaborate on projects on web development, software development in c++<br><br>💬 Ask me about anything related to my domian, I am always ready.<br><br>📫 How to reach me: ✉️ anshulkansal89@gmail.com
+- 🔭 I’m currently working on ReactJS
+- 👨‍💻 All of my projects are available at https://github.com/anshulkansal04
+- ⚡ I am looking to collaborate on projects on Web Development, Software Development in C++
+- 💬 Ask me about anything related to my domian, I am always ready.
+- 📫 How to reach me: ✉️ anshulkansal89@gmail.com
 
 
 ## 🌐 Socials:
@@ -14,6 +20,3 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=anshulkansal04&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=anshulkansal04&icon=5&color=12)](https://visitcount.itsvg.in)
