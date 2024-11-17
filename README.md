@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anshul Kansal</h1>
 
 # 💫 About Me:
-- 🔭 I’m currently learning on Machine Learning
+- 🔭 I’m currently learning **Machine Learning**
 - 👨‍💻 All of my projects are available at https://github.com/anshulkansal04
 - ⚡ I am looking to collaborate on projects on Web Development, Software Development in C++
 - 💬 Ask me about anything related to my domian, I am always ready.
